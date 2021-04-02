@@ -2,9 +2,9 @@
 ---
 **Giới thiệu bản thân**
 ---
-**- Họ Tên** Nguyễn Văn
-**- MSSV**   18521632
-**- KHCL2018**
+- **Họ Tên:** Nguyễn Văn
+- **MSSV:**   18521632
+- **KHCL2018**
 ---
 **Giảng Viên Hướng Dẫn**
 ---
