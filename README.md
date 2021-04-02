@@ -6,6 +6,12 @@
 - **MSSV:**   18521632
 - **KHCL2018**
 ---
+**giới thiệu môn học:**
+---
+- **Tên môn học:** Machine Learning
+- **Lớp: **        CS114.L21
+- **Năm học:**     2020-2021
+---
 **Giảng Viên Hướng Dẫn**
 ---
 - PSG.TS.**Lê Đình Duy**         - duydl@uit.edu.vn
