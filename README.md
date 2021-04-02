@@ -9,7 +9,7 @@
 **giới thiệu môn học:**
 ---
 - **Tên môn học:** Machine Learning
-- **Lớp: **        CS114.L21
+- **Lớp:**         CS114.L21
 - **Năm học:**     2020-2021
 ---
 **Giảng Viên Hướng Dẫn**
