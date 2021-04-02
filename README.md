@@ -12,6 +12,7 @@
 - ThS. **Phạm Nguyễn Trường An** - truonganpn@uit.edu.vn
 ---
 **Thành viên nhóm**
+---
 | Họ Và Tên   | MSSV          | Email                  |
 | ------------- |:-------------:| ----------------------:|
 | Nguyễn Văn    | 18521632      | 18521632@gm.uit.edu.vn |
