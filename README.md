@@ -22,4 +22,5 @@
 | Họ Và Tên   | MSSV          | Email                  |
 | ------------- |:-------------:| ----------------------:|
 | Nguyễn Văn    | 18521632      | 18521632@gm.uit.edu.vn |
-| Huỳnh văn Sơn | 18520416      | 18520416@gm.uit.edu.vn |
+| Huỳnh Văn Sơn | 18520416      | 18520416@gm.uit.edu.vn |
+| Lê Vinh Quang | 19522093      | 19522093@gm.uit.edu.vn |
